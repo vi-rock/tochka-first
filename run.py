@@ -156,6 +156,7 @@ def solve(lines: list[str]) -> int:
 
 
 def main():
+    # test test
     lines = []
     for line in sys.stdin:
         lines.append(line.rstrip("\n"))
